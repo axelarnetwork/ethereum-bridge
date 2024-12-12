@@ -107,7 +107,7 @@ npx hardhat test --network example --grep 'AxelarGateway'
 
 ## Debugging Steps
 
--   Explicitly pass `getGasOptions()` using utils.js file for some spceific transactions. See the code below for example
+-   Explicitly pass `getGasOptions()` using utils.js file for some specific transactions. See the code below for example
 
 ```javascript
 await sourceChainGateway
